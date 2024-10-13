@@ -30,7 +30,7 @@ A powerful Jupyter Notebook-based toolkit for effortlessly managing, analyzing, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CoNLL-Toolkit.git
+git clone https://github.com/SakibAhmedShuva/CoNLL-Toolkit.git
 cd CoNLL-Toolkit
 ```
 
