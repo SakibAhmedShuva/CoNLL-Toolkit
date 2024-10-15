@@ -4,7 +4,7 @@
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 
-A powerful Jupyter Notebook-based toolkit for effortlessly managing, analyzing, and modifying CoNLL format annotations. Perfect for NLP researchers and practitioners working with named entity recognition (NER) datasets.
+A powerful Jupyter Notebook-based toolkit for effortlessly managing, analyzing, and modifying CoNLL format annotations. Perfect for NLP researchers and practitioners working with named entity recognition (NER) datasets. Please check the CoNLL files in "samples" folder to learn about the compatible formats.
 
 ## 📋 Repository Contents
 - Jupyter Notebook with CoNLL editing functionality
