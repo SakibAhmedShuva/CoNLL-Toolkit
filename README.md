@@ -16,6 +16,7 @@ A powerful Jupyter Notebook-based toolkit for effortlessly managing, analyzing, 
 - 🏷️ **Label Statistics**: Analyze the distribution of labels in your dataset with detailed counts.
 - 🔍 **Smart Search**: Find entities with specific labels and track their occurrences.
 - ✂️ **Remove Labels**: Selectively remove labels from annotations
+- ✂️ **Delete Sentences**: Selectively remove sentences containing particular labels
 - 🔄 **Merge Labels**: Combine multiple labels into one
 - ✏️ **Rename Labels**: Easily batch rename labels using a dictionary mapping.
 
@@ -65,6 +66,9 @@ editor.search_by_label('B-PER')
 
 # Remove a label
 editor.remove_label('O')
+
+# Delete entire sentences containing specific labels
+editor.delete_sentences_with_label("B-PER")
 
 # Merge labels
 editor.merge_labels(['B-PER', 'I-PER'], 'PER')
