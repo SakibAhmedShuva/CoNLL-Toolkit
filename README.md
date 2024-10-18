@@ -12,12 +12,12 @@ A powerful Jupyter Notebook-based toolkit for effortlessly managing, analyzing, 
 
 ## ✨ Features
 
-- 📊 **View Annotations**: Instantly visualize all annotations in the CoNLL file
-- 🏷️ **Label Statistics**: Count and analyze the distribution of labels in your dataset
-- 🔍 **Smart Search**: Find entities with specific labels
+- 📊 **View Annotations**: Instantly visualize all annotations in the CoNLL file along with the total count.
+- 🏷️ **Label Statistics**: Analyze the distribution of labels in your dataset with detailed counts.
+- 🔍 **Smart Search**: Find entities with specific labels and track their occurrences.
 - ✂️ **Remove Labels**: Selectively remove labels from annotations
 - 🔄 **Merge Labels**: Combine multiple labels into one
-- ✏️ **Rename Labels**: Batch rename labels with a simple dictionary mapping
+- ✏️ **Rename Labels**: Easily batch rename labels using a dictionary mapping.
 
 ## 🚀 Getting Started
 
@@ -47,15 +47,6 @@ jupyter notebook
 4. Open the `CoNLL-Toolkit.ipynb` notebook in your browser.
 
 ## 💻 Usage
-
-The notebook provides an intuitive interface with the following functionalities:
-
-1. **View Annotations**: Display all annotations in your dataset
-2. **Label Statistics**: See a distribution of all labels with their counts
-3. **Search Labels**: Find specific labels in your dataset
-4. **Remove Labels**: Select and remove unwanted labels
-5. **Merge Labels**: Combine multiple labels into one
-6. **Rename Labels**: Batch rename labels using a dictionary mapping
 
 ### Example Usage
 
