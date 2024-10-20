@@ -17,6 +17,7 @@ A powerful Jupyter Notebook-based toolkit for effortlessly managing, analyzing, 
 - 🔍 **Smart Search**: Find entities with specific labels and track their occurrences.
 - ✂️ **Remove Labels**: Selectively remove labels from annotations
 - ✂️ **Delete Sentences**: Selectively remove sentences containing particular labels
+- ✂️ **Delete Sentences**: Remove useless sentences containing no annotations or labels
 - 🔄 **Merge Labels**: Combine multiple labels into one
 - ✏️ **Rename Labels**: Easily batch rename labels using a dictionary mapping.
 
