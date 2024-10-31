@@ -12,15 +12,16 @@ A powerful Jupyter Notebook-based toolkit for effortlessly managing, analyzing, 
 
 ## ✨ Features
 
-- 📊 **View Annotations**: Instantly visualize all annotations in the CoNLL file along with the total count.
-- 🏷️ **Label Statistics**: Analyze the distribution of labels in your dataset with detailed counts.
-- 🔍 **Search Labels**: Find entities with specific labels/tags and track their occurrences.
-- 🔍 **Search Tokens**: Find entities with specific tokens and track their occurrences.
+- 📊 **View Annotations**: Instantly visualize all annotations in the CoNLL file along with the total count
+- 🏷️ **Label Statistics**: Analyze the distribution of labels in your dataset with detailed counts
+- 🔍 **Search Labels**: Find entities with specific labels/tags and track their occurrences
+- 🔍 **Search Tokens**: Find entities with specific tokens and track their occurrences
 - ✂️ **Remove Labels**: Selectively remove labels from annotations
 - 🔄 **Merge Labels**: Combine multiple labels into one
-- ✏️ **Rename Labels**: Easily batch rename labels using a dictionary mapping.
+- ✏️ **Rename Labels**: Easily batch rename labels using a dictionary mapping
 - ✂️ **Delete Sentences**: Selectively remove sentences containing particular labels
 - ✂️ **Delete Useless Sentences**: Remove useless sentences containing no annotations or labels
+- ✂️ **Delete Duplicate Sentences**: Remove duplicate sentences
 
 ## 🚀 Getting Started
 
