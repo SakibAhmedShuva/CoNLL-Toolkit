@@ -51,7 +51,7 @@ pip install jupyter
 jupyter notebook
 ```
 
-4. Open the `CoNLL-Toolkit.ipynb` notebook in your browser.
+4. Open the `conll-toolkit.ipynb` notebook in your browser.
 
 ## 💻 Usage
 
