@@ -6,6 +6,9 @@
 
 A powerful Jupyter Notebook-based toolkit for effortlessly managing, analyzing, and modifying CoNLL format annotations. Perfect for NLP researchers and practitioners working with named entity recognition (NER) datasets. Please check the CoNLL files in "samples" folder to learn about the compatible formats.
 
+## Note:
+If your conll contains special characters, you may face errors because Python is having trouble reading the file due to encoding issues. The file likely contains special characters that the default encoding (cp1252 on Windows) can't handle. Use **conll-toolkit_special_encoding.ipynb** in this case, which explicitly handles UTF-8 encoding, which is commonly used for text files with special characters.
+
 ## 📋 Repository Contents
 - Jupyter Notebook with CoNLL editing functionality
 - Sample CoNLL file (yours.conll)
