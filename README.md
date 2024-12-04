@@ -16,7 +16,7 @@ If your conll contains special characters, you may face errors because Python is
 ## ✨ Features
 
 - 📊 **View Annotations**: Instantly visualize all annotations in the CoNLL file along with the total count
-- 🏷️ **Label Statistics**: Analyze the distribution of labels in your dataset with detailed counts
+- 🏷️ **Label Statistics**: Analyze the distribution of labels in your dataset with detailed counts and appropriately sorted
 - 🔍 **Search Labels**: Find entities with specific labels/tags and track their occurrences
 - 🔍 **Search Tokens**: Find entities with specific tokens and track their occurrences
 - ✂️ **Remove Labels**: Selectively remove labels from annotations
